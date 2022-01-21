@@ -47,7 +47,7 @@
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
 <!--<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>-->
-<img alt="Visual Studio Code" width="40px" src="https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81:Visual_Studio_Code_1.35_icon.svg" />
+<img alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
 <!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>-->
