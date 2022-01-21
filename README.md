@@ -9,7 +9,7 @@
 </p>
 <br />
 
-<p align="center">Enthusiastic Junior Software Engineer ,I love open source and building side projects 👋</p>
+<p align="center">Enthusiastic Junior Software Engineer ,I love open source and building side projects 💻</p>
 <!--
 <br />
 
