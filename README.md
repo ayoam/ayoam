@@ -81,16 +81,3 @@ Timezone: Europe/Vienna (CEST)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
 </p>
 
----
-
-📕 **Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [How to create a professional LinkedIn profile](https://dev.to/yuridevat/how-to-create-a-professional-linkedin-profile-2n11)
-- [How to create a stunning GitHub Profile](https://dev.to/yuridevat/how-to-create-a-stunning-github-profile-2mh5)
-- [How to write a promising CV](https://dev.to/yuridevat/how-to-write-a-promising-cv-32ih)
-- [Nikki - Online Journal App](https://yuridevat.hashnode.dev/nikki-online-journal-app)
-- [SOS Animals App. A project for the Clerk x Hashnode Hackathon](https://yuridevat.hashnode.dev/sos-animals-hackathon-project)
-
-... [READ MORE](https://dev.to/yuridevat)
-<!-- BLOG-POST-LIST:END -->
