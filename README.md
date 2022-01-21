@@ -36,22 +36,6 @@
 
 <br />
 
-<h2 align="center">About me 😇</h2>
-<p align="center">
-Timezone: Europe/Vienna (CEST)
-</p>
-<br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
-
-:muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
-<!--:eyes: I’m currently learning ... TypeScript <br />
-:raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
-:dizzy_face: I’m looking for help with ... TypeScript<br />-->
-💬 Ask me about anything related to... my content. I am happy to help.<br />
-:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. <br />
-
-<br />
-<br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
 </p>
