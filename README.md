@@ -61,7 +61,7 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayoam&theme=radical&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoam&layout=compact&theme=radical" width="400" />
 </p>
 
