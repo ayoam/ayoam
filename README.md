@@ -11,10 +11,10 @@
 
 <p align="center">Enthusiastic Junior Software Engineer ,I love open source and building side projects 👋</p>
 <br />
-
+<!--
 <h2 align="center">My recent projects 💻</h2>
 <br />
-<!--
+
 <p align="center">
   <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
   <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
