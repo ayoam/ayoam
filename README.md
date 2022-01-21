@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Ayoub <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+  <h1 align="center"><b>Hi there, I'm Ayoub <img src="https://c.tenor.com/yWSRmymbuBkAAAAS/waving-hi.gif" alt="" width="30"></h1>
 </p>
 <p align="center">
 <a href="https://ayoam.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&color=blueviolet" alt="Portfolio" /></a>&nbsp;
