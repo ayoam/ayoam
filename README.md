@@ -51,9 +51,12 @@
 <img alt="Tailwind CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png" />
 <img alt="ReactJS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img alt="NodeJs" width="60px" src="https://nodejs.org/static/images/logo.svg" />
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png" alt=".NET" width="40" height="40"/> </a>  
+ </p>
+<br />
+<p align="center">
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png" alt=".NET" width="40" height="40"/> </a>  
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://i.ibb.co/4mQ90tT/icons8-microsoft-sql-server-48.png" alt="sql server" width="40" height="40"/> </a>
-   </p>
+</p>
 <br />
 <p align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you !</b> 😊</em>
