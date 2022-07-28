@@ -73,7 +73,8 @@
 </p>
   
 <br/>
+  
 ## Watch my contributions get eaten by a snake 🐍
 
-![snake gif](https://raw.githubusercontent.com/ayoam/snk/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ayoam/ayoam/output/github-contribution-grid-snake.gif)
 
