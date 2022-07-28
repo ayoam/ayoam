@@ -50,7 +50,7 @@
 <a href="https://nextjs.org/" target="_blank"> <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a>
 <img alt="Tailwind CSS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png" />
 <img alt="ReactJS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
-<img alt="NodeJs" width="80px" src="https://nodejs.org/static/images/logo.svg" />
+<img alt="NodeJs" width="60px" src="https://nodejs.org/static/images/logo.svg" />
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png" alt=".NET" width="40" height="40"/> </a>  
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://i.ibb.co/4mQ90tT/icons8-microsoft-sql-server-48.png" alt="sql server" width="40" height="40"/> </a>
    </p>
