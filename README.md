@@ -54,7 +54,7 @@
  </p>
 <br />
 <p align="center">
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png" alt=".NET" width="40" height="40"/> </a>  
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt=".NET" width="40" height="40"/> </a>  
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://i.ibb.co/4mQ90tT/icons8-microsoft-sql-server-48.png" alt="sql server" width="40" height="40"/> </a>
 </p>
 <br />
