@@ -1,4 +1,5 @@
 <p>
+  <p align="center"><img width="45%" height="auto" src="man-developing-website-on-desk.png"/></p>
   <h1 align="center"><b>Hi there, I'm Ayoub <img src="https://c.tenor.com/yWSRmymbuBkAAAAS/waving-hi.gif" alt="" width="30"></h1>
 </p>
 <p align="center">
@@ -70,4 +71,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ayoam&theme=radical&show_icons=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoam&layout=compact&theme=radical" width="400" />
 </p>
+  
+<br/>
+## Watch my contributions get eaten by a snake 🐍
+
+![snake gif](https://raw.githubusercontent.com/ayoam/snk/output/github-contribution-grid-snake.svg)
 
