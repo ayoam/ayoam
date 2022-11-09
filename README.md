@@ -60,7 +60,7 @@
 </p>
  <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" alt="JAVA" width="30"/>
-<img src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo.png" alt="Spring boot" width="60"/>
+<img src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo.png" alt="Spring boot" width="70"/>
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="Postgres" width="40"/>
 </p> 
  <br />
