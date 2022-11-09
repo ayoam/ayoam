@@ -59,7 +59,7 @@
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#" width="40"/>
 </p>
  <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" alt="JAVA" width="20"/>
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" alt="JAVA" width="30"/>
 <img src="https://i.ibb.co/4mQ90tT/icons8-microsoft-sql-server-48.png" alt="Spring boot" width="40" height="40"/>
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="Postgres" width="40"/>
 </p> 
