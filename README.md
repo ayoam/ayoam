@@ -2,13 +2,14 @@
   <p align="center"><img width="45%" height="auto" src="man-developing-website-on-desk.png"/></p>
   <h1 align="center"><b>Hi there, I'm Ayoub <img src="https://c.tenor.com/yWSRmymbuBkAAAAS/waving-hi.gif" alt="" width="30"></h1>
 </p>
+    <!--
 <p align="center">
 <a href="https://ayoam.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&color=blueviolet" alt="Portfolio" /></a>&nbsp;
 <a href="https://twitter.com/ayo_am"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://dev.to/ayoam"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
 </p>
 <br />
-
+-->
 <!--
 <p align="center">Enthusiastic Software Engineer ,I love open source and building side projects 💻</p>
 <!--
